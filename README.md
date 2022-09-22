@@ -13,11 +13,6 @@
 
 - 📫 How to reach me *nishoak20102@iiitnr.edu.in*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishoak" target="blank"><img align="center" src="https://github.com/yathin017/yathin017/blob/main/images/linkedin.svg" alt="Yathin Prakash Kethepalli" height="30" width="40" /></a>
-<a href="https://twitter.com/NishoakKosaraju" target="blank"><img align="center" src="https://github.com/yathin017/yathin017/blob/main/images/twitter.svg" alt="yathin017" height="30" width="40" /></a>
-</p>
 <br>
 <div>
  <br>
