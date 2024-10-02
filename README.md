@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75620849/135789519-dd611b0f-9aeb-4671-99f5-fd37ce37b196.gif" style="border-radius:30%;">
 <br>
 
-- 👨‍💻 I'm a DSAI pre final year student
+- 👨‍💻 I'm a first year graduate student
 
-- 🏫 Studying at *IIIT Naya Raipur*
+- 🏫 Studying at *Carnegie Mellon University*
 
-- 📫 How to reach me *nishoak20102@iiitnr.edu.in*
+- 📫 How to reach me *nkosaraj@andrew.cmu.edu*
 
 <div>
  <br><br><br>
